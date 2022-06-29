@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Começando os estudos dsobre Ruby on Rails pelo guia:
 
-Things you may want to cover:
+https://guides.rubyonrails.org/getting_started.html
 
-* Ruby version
+Criação de um blog com as seguintes funcionalidades:
+- Adicionar artigo
+- Deletar Artigo
+- Adicionar comentário
+- Deletar comentário
+- Adicionar status no comentário ou artigo como público, privado ou arquivado
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![image](https://user-images.githubusercontent.com/87333149/176483061-5ad23c8d-3e3b-46ac-b516-770c1efb4888.png)
